@@ -29,7 +29,7 @@ export const birthdayData = {
   // 2. OPENING SCREEN (The mysterious initial prompt)
   // ---------------------------------------------------------------------------
   opening: {
-    firstLine: "Hey You... 💫",
+    firstLine: "Hey You Tanya... 💫",
     secondLine: "I have something special for you...",
     buttonText: "Open Your Birthday Surprise 🎁",
   },
@@ -39,8 +39,8 @@ export const birthdayData = {
   // ---------------------------------------------------------------------------
   hero: {
     badge: "✨ IT'S YOUR SPECIAL DAY ✨",
-    title: "HAPPY BIRTHDAY! 🎉",
-    subtitle: "To an absolutely beautiful soul ❤️",
+    title: "HAPPY BIRTHDAY TANYA! 🎉",
+    subtitle: "To an absolutely beautiful and lovely soul ❤️",
     tagline: "Today the world became a brighter, warmer, and much more wonderful place.",
     cakeQuote: "Make every moment as sweet as today!",
   },
@@ -51,7 +51,7 @@ export const birthdayData = {
   // ---------------------------------------------------------------------------
   letter: {
     sectionTitle: "From My Heart To Yours",
-    headerQuote: "Today isn't just about celebrating your birthday... it's about celebrating the beautiful person you are.",
+    headerQuote: "Shine bright, Beautiful and lovely birthday girl— the world is your runway!",
     paragraphs: [
       "From the countless conversations that stretched deep into the night to the quiet moments where just having you around made everything feel lighter, I am endlessly grateful for your presence in my life.",
       "You bring so much natural kindness, warmth, and effortless joy everywhere you go. Your laughter is contagious, your heart is pure gold, and the genuine care you show to people around you is something truly rare and precious.",
@@ -59,7 +59,7 @@ export const birthdayData = {
     ],
     closingQuote: "Never stop being the beautiful soul that you are. ❤️",
     senderSignature: "With all my love & gratitude,",
-    senderName: "Your Best Friend Forever 💖",
+    senderName: "Ansh Agrawal, Your Best Friend Forever 💖",
   },
 
   // ---------------------------------------------------------------------------
@@ -158,7 +158,7 @@ export const birthdayData = {
     line1: "One Last Thing...",
     line2: "Thank you for being you.",
     line3: "Happy Birthday to one of the most beautiful souls I've ever known. ❤️",
-    grandTitle: "HAPPY BIRTHDAY, BEAUTIFUL SOUL! 🎂✨❤️",
+    grandTitle: "HAPPY BIRTHDAY RIYA, BEAUTIFUL SOUL! 🎂✨❤️",
     replayText: "Replay the Surprise 💫",
   },
 
